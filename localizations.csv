@@ -502,7 +502,7 @@ Verifique  https://developer.nvidia.com/cuda-gpus para uma lista de GPU compatí
 VALIDATE,Validar,Bestätigen,Validate,Validar,Valider,Zezwól,Valiar
 VISIBILITY,,Sichtbarkeit,Visibility,,Visiblité,Widzialność,
 WISDOM,Saviesa,Weisheit,Wisdom,Sabiduría,Sagesse,Mądrość,Sabedoria
-WORKSHOP_UPLOAD_ACCEPT_DIALOG,,"Sind Sie sich sicher, das sie diesen Gegenstand hochladen möchten?",Are you sure you want to upload this item?,,Voulez-vous vraiment publier cet objet?,,
+WORKSHOP_UPLOAD_ACCEPT_DIALOG,,"Sind Sie sich sicher, das sie diesen Gegenstand hochladen möchten?",Are you sure you want to upload this item?,,Voulez-vous vraiment publier cet objet?,"Jesteś pewny, że chcesz przesłać ten przedmiot?",
 WORKSHOP_UPLOAD_BUTTON_HINT,,"Um etwas in den Workshop hochzuladen, müssen Sie die Abonnentenbedingungen akzeptieren.
 Außerdem müssen die folgenden Schritte erfüllt sein:
 - Sichtbarkeit festlegen
